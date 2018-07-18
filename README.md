@@ -1,3 +1,3 @@
-I'm testing now
+I was tested before
 Do you understand?
 Ok.
